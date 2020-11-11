@@ -17,7 +17,7 @@
     "async": "2.3.0",
     "fs-extra": "6.0.1",
     "inquirer": "5.2.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "sc-auth": "^5.0.1",
     "sc-broker-cluster": "^6.1.5",
     "sc-errors": "^1.4.0",
